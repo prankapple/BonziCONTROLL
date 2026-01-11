@@ -1,4 +1,7 @@
 # BonziCONNECT
+
+![example](Docs/example.png)
+
 A app that lets you controll Bonzi from Python using C#
 
 # Usage
