@@ -1,8 +1,8 @@
-# BonziCONTROLL
+# BonziCONNECT
 A app that lets you controll Bonzi from Python using C#
 
 # Usage
-Run the **BonziCONTROL.exe** in the **BonziCONTROLL** folder and use this code in python :
+Run the **BonziCONNECTL.exe** in the **BonziCONNECT** folder and use this code in python :
 ```python
 import BonziSEND
 
